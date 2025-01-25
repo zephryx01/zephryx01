@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I'm Mihir (a.k.a Zephryx), an **ethical hacker** and a **part-time full stack developer** passionate about technology, cybersecurity, and building innovative software solutions.
+I'm Mihir (a.k.a Zephryx), an **ethical hacker** and a **part-time full stack developer** passionate about technology, cybersecurity, and building innovative and secure software solutions.
 
 ---
 
