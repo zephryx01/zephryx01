@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I'm Mihir (a.k.a Zephryx), an **Frontend Web Developer** and a **part-time Ethical hacker** passionate about technology, cybersecurity, and building innovative and secure software solutions.
+I'm Mihir (a.k.a Zephryx), a **Frontend Web Developer** and a **part-time Ethical hacker** passionate about technology, cybersecurity, and building innovative and secure software solutions.
 
 ---
 
