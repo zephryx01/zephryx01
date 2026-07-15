@@ -10,11 +10,11 @@
 <p align="center">
   <a href="https://zephryx.in">Website</a>
   ·
-  <a href="https://www.youtube.com/@Zephryx_Academy">YouTube</a>
+  <a href="https://www.youtube.com/@Zephryx_exe">YouTube</a>
   ·
   <a href="https://www.linkedin.com/in/zephryx/">LinkedIn</a>
   ·
-  <a href="https://x.com/zephryx01">X</a>
+  <a href="https://x.com/zephryx_exe">X</a>
   ·
   <a href="mailto:contact@zephryx.in">Contact</a>
   ·
