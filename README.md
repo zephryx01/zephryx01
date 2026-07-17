@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/terminal-banner.svg" alt="Mihir — Zephryx terminal profile banner" width="100%" />
+  <img src="./assets/terminal-banner.svg" alt="Zephryx Terminal Banner" width="100%" />
 </p>
 
 <p align="center">
-  <strong>SOC Analyst · Threat Hunter · Offensive Security Practitioner</strong><br />
-  <sub>Building practical security tooling, labs, and education through Zephryx.</sub>
+  <strong>Cybersecurity Enthusiast • Ethical Hacker • Security Researcher</strong><br />
+  <sub>Learning, building, and sharing practical cybersecurity knowledge.</sub>
 </p>
 
 <p align="center">
@@ -12,55 +12,135 @@
   ·
   <a href="https://www.youtube.com/@Zephryx_exe">YouTube</a>
   ·
-  <a href="https://www.linkedin.com/in/zephryx/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/zephryx">LinkedIn</a>
   ·
   <a href="https://x.com/zephryx_exe">X</a>
   ·
   <a href="mailto:contact@zephryx.in">Contact</a>
-  ·
-  <a href="mailto:security@zephryx.in">Security</a>
 </p>
 
 ---
 
-```console
-mihir@zephryx:~$ whoami
-Mihir — SOC Analyst, Threat Hunter, and offensive security practitioner.
+## `$ whoami`
 
-mihir@zephryx:~$ mission
-Turn complex cybersecurity concepts into practical labs, tools, and repeatable workflows.
+```console
+zephryx@github:~$ whoami
+
+Zephryx
+
+A cybersecurity enthusiast passionate about
+ethical hacking, security research, Linux,
+and practical learning.
+
+I enjoy building things, solving problems,
+and sharing what I learn with others.
 ```
+
+---
+
+## `$ cat mission.txt`
+
+```console
+Making cybersecurity simple, practical,
+and easy to apply in the real world.
+```
+
+---
 
 ## `> operational_focus`
 
-- Threat hunting, SIEM investigation, alert triage, and network traffic analysis
-- Web reconnaissance, service enumeration, Linux, and offensive-security labs
-- Python and Selenium automation for repetitive SOC and reporting workflows
-- DGA analysis, suspicious-domain investigation, and security research
-- Practical cybersecurity education through **Zephryx Academy**
+- Ethical hacking and offensive security
+- Threat hunting and security research
+- Linux and networking fundamentals
+- Web security and reconnaissance
+- Security automation using Python and Bash
+- Learning and teaching practical cybersecurity concepts
+
+---
+
+## `> currently_learning`
+
+```bash
+Linux Internals
+Web Security
+Threat Hunting
+Python Automation
+Security Research
+Offensive Security
+Network Analysis
+Practical Labs
+```
+
+---
 
 ## `> currently_building`
 
-- **Zephryx Platform** — a terminal-first cybersecurity platform for research, labs, and education
-- **SOC Automation Lab** — scripts that reduce repetitive analyst work and improve reporting consistency
-- **Web Enumeration Playbook** — practical workflows that begin with an exposed service and end with validated findings
-- **Linux 100** — beginner-to-practical Linux learning material for cybersecurity students
+- Practical cybersecurity labs and projects
+- Security automation scripts
+- Linux learning material for beginners
+- Web security playbooks and methodologies
+- Open-source cybersecurity resources
+- Personal security research projects
+
+---
 
 ## `> field_kit`
 
-| Security operations | Offensive and network | Engineering |
-|---|---|---|
-| SIEM investigation, threat hunting, DGA analysis, incident triage | Nmap, web enumeration, network analysis, Linux, Bash | Python, Selenium, Git, TypeScript, Next.js, Tailwind CSS |
+| Cybersecurity | Offensive Security | Development |
+|---------------|-------------------|-------------|
+| Threat Hunting | Web Reconnaissance | Python |
+| SIEM Basics | Linux | Bash |
+| Network Analysis | Enumeration | Git |
+| Security Research | Web Security | TypeScript |
+| Practical Labs | CTFs | Next.js |
+
+---
 
 ## `> operating_principles`
 
 ```text
-01. Understand the system before touching the exploit.
-02. Automate repetitive work, not analyst judgment.
-03. Document findings so another person can reproduce them.
-04. Test only in labs, authorized programs, or systems with explicit permission.
-05. Share practical knowledge without fake promises or shortcuts.
+01. Learn by doing.
+
+02. Understand the system before touching the exploit.
+
+03. Build practical skills over theoretical knowledge.
+
+04. Share what you learn.
+
+05. Automate repetitive tasks.
+
+06. Practice only in authorized environments.
+
+07. Stay curious and keep learning.
 ```
+
+---
+
+## `> learning_roadmap`
+
+```text
+
+Linux
+  |
+Networking
+  |
+Python
+  |
+Web Security
+  |
+Threat Hunting
+  |
+Offensive Security
+  |
+Security Research
+  |
+Build Projects
+  |
+Teach What You Learn
+
+```
+
+---
 
 ## `> contribution_signal`
 
@@ -74,16 +154,19 @@ Turn complex cybersecurity concepts into practical labs, tools, and repeatable w
     srcset="https://raw.githubusercontent.com/zephryx01/zephryx01/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="Animated GitHub contribution graph"
+    alt="GitHub contribution graph"
     src="https://raw.githubusercontent.com/zephryx01/zephryx01/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
 ---
 
-<p align="center">
-  <sub>
-    Security research and offensive-security content shown here is limited to authorized environments,
-    labs, CTFs, and responsible disclosure programs.
-  </sub>
-</p>
+<div align="center">
+
+### Learn • Build • Share
+
+<sub>
+Security-related content is intended for educational purposes and is limited to authorized environments, labs, CTFs, and responsible disclosure programs.
+</sub>
+
+</div>
