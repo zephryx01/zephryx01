@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/insta-8B0000?style=for-the-badge" />
   </a>
   <a href="https://x.com/zephryxsec">
-    <img src="https://img.shields.io/badge/X-8B0000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/X/Twitter-8B0000?style=for-the-badge" />
   </a>
   <a href="mailto:contact@zephryx.in">
     <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge" />
