@@ -9,19 +9,22 @@
 
 <p align="center">
   <a href="https://zephryx.in">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-8B0000?style=for-the-badge" />
   </a>
-  <a href="https://www.youtube.com/@Zephryx01">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.youtube.com/@Zephryx06">
+    <img src="https://img.shields.io/badge/YouTube-8B0000?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/zephryx">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge" />
   </a>
-  <a href="https://x.com/zephryx01">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://instagram.com/zephryx.sec">
+    <img src="https://img.shields.io/badge/insta-8B0000?style=for-the-badge" />
+  </a>
+  <a href="https://x.com/zephryxsec">
+    <img src="https://img.shields.io/badge/X-8B0000?style=for-the-badge" />
   </a>
   <a href="mailto:contact@zephryx.in">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge" />
   </a>
 </p>
 
